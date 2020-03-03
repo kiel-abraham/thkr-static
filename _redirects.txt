@@ -1,0 +1,5 @@
+/about              /
+/templates			/
+/pricing            /
+/referrals          /
+/contact			/#contact
